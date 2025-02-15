@@ -3,3 +3,4 @@
 </p>
 
 <p align="center">Welcome to the official library of extensions for Quick.</p>
+<h1 align="center">Quicker</h1>
