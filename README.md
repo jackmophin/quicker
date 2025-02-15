@@ -4,3 +4,4 @@
 
 <p align="center">Welcome to the official library of extensions for Quick. <br> <br>Introducing...</p>
 <h1 align="center">Quicker</h1>
+<h2 align="left">What is Quicker?</h2>
