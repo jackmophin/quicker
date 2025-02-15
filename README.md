@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/667313df-381d-4774-aeb5-253a3dbfd409" alt="Quick">
+  <img src="https://github.com/user-attachments/assets/7ccbcc80-0d10-496f-9412-3cdc122aacc3" alt="Quick">
 </p>
 
 <p align="center">Welcome to the official library of extensions for Quick.</p>
