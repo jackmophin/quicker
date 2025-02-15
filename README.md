@@ -5,4 +5,6 @@
 <p align="center">Welcome to the official library of extensions for Quick. <br> <br>Introducing...</p>
 <h1 align="center">Quicker</h1>
 <h2 align="left">What is Quicker?</h2>
-<p align="left">This is a library for my new programming language called <b>Quick</b>. To import something, use the <b>import()</b> function.</p>
+<p align="left">This is a library for my new programming language called <b>Quick</b>. To import something, use the <b>import</b> function.</p>
+<h2 align="left">Can I somehow boost the speed of importing a library></h2>
+<p align="left">Oh. To boost the speed of importing, you should use <b>$import</b>. This function cashes the extension in your browser storage to revoke it after another use.</p>
