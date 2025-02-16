@@ -7,4 +7,4 @@
 <h2 align="left">What is Quicker?</h2>
 <p align="left">This is a library for my new programming language called <b>Quick</b>. To import something, use the <b>import</b> function.</p>
 <h2 align="left">Can I somehow boost the speed of importing a library></h2>
-<p align="left">Oh. To boost the speed of importing, you should use <b>$import</b>. This function cashes the extension in your browser storage to call it after another use without fetching again.</p>
+<p align="left">To boost the speed of importing, you should use <b>import</b> with parameter <b>-cash</b>. This parameter cashes the extension in your browser storage to call it after another use without fetching again. The function will look like "import test -cash"</p>
